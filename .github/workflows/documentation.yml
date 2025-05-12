@@ -1,4 +1,4 @@
-name: "Sphinx: Render docs"
+name: Sphinx: Render docs
 
 on: push
 
@@ -7,17 +7,24 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
     - uses: actions/checkout@v4
       with:
         persist-credentials: false
+
     - name: Build HTML
       uses: ammaraskar/sphinx-action@master
+      with:
+        docs-folder: "docs"
+        build-command: "sphinx-build -b html . build/html"
+
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
       with:
         name: html-docs
         path: docs/build/html/
+
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/main'
