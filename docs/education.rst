@@ -8,11 +8,11 @@ Experience
 
 	**Postdoctoral Researcher (11/2023 – Present)**
 	`Fritz-Haber-Institut der Max-Planck-Gesellschaft <https://www.fhi.mpg.de/>`_, Berlin 
-	Developed a machine learning force field methodology incorporating electronic information to model electronic and ionic charge transport in large-scale (10,000 atoms) molecular dynamics simulations of solid-state lithium-ion batteries. Work carried out within the `SolBat project <https://solbat.org/>`_.
+	Developed a machine learning force field methodology that integrates electronic structure information to accurately model coupled electronic and ionic charge transport, enabling large-scale molecular dynamics simulations of solid-state lithium-ion batteries. Work carried out within the `SolBat project <https://solbat.org/>`_.
 
 	**Postdoctoral Researcher (12/2022 – 11/2023)**
 	`ICAMS <https://www.icams.de/>`_, `Ruhr Universität Bochum <https://www.ruhr-uni-bochum.de/en>`_
-	Built a machine learning force field framework based on the `Atomic Cluster Expansion (ACE) <https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.014104>`_ to capture long-range charge transfer and electrostatics; implemented in TensorFlow within the pacemaker Python package; matched the accuracy of state-of-the-art approaches.
+	Built a machine learning force field framework(`ACE+Q <https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.033802>`_, based on the `Atomic Cluster Expansion <https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.033802>`_) to capture long-range charge transfer and electrostatics; implemented in TensorFlow within the pacemaker Python package; matched the accuracy of state-of-the-art approaches.
 	
 	**Scientist (12/2022 – 11/2023)**
 	`ACEworks GmbH <https://aceworks.works/>`_, Bochum
