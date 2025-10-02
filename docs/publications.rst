@@ -33,7 +33,7 @@ Publications
 
 	**Advancing our Understanding of Optoionic Effects for the Design of Solar Batteries: A Theoretical Perspective**
 	M. Rinaldi, M. Kick, K. Reuter, C. Carbogno
-	`arXiv:2503.07460 (2025) <https://arxiv.org/abs/2503.07460>`_
+	`Journal of Physics: Materials 8, 031003 (2025) <https://iopscience.iop.org/article/10.1088/2515-7639/adeaec/meta>`_
 
 	`Dataset paper "M. Rinaldi et al., npj Comput. Mater. 10, 1 (2024) <https://zenodo.org/records/15363836>`_
 
