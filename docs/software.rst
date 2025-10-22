@@ -19,5 +19,5 @@ Software
 	`Repository <https://github.com/mttrin93/ace_plus_q>`__ – `Publication <https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.9.033802>`__
 
 	**pypolaron**
-	Repository containing Python package for generation, submission, pre- and post-processing and analysis of polaron calculations with FHI-AIMS and VASP.
+	Repository containing Python package for generation, submission, pre-/post-processing and analysis of polaron calculations with FHI-AIMS and VASP.
 	`Repository <https://github.com/mttrin93/pypolaron>`__
